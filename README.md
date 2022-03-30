@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rfsean
 - 👀 I’m interested in learning coding! I majored in Chemistry and I currently teach math. 
-- 🌱 I’m currently learning CS basics
+- 🌱 I’m currently learning just the CS basics.
 - 💞️ I’m looking to collaborate on a fun project that will encourage me to code.
 - 📫 How to reach me: seanrobertfleming110@gmail.com
 
